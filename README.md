@@ -18,7 +18,7 @@
   <br/>
   - 🌱 I’m currently learning the ins and outs of the tech industry
   <br/>
-  - 👯 I’m looking to collaborate on big projects that teach me a lot 
+  - 👯 I’m looking to collaborate on big projects that teach me a lot to be able to achieve my goals
   <br/>
   - 🤔 I’m looking for help with climing within the industry to reach my goals
   <br/>
