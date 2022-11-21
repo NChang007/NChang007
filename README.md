@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">
+  NELSON CHANG
+</h1>
+<h2>About Me</h2>
+<h3>
+ I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me working on my car, spending time with my family, and gaming with my friends! 🎮
+</h3>
 
-<!--
-**NChang007/NChang007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  - 🔭 I’m currently working on Full Stack Development projects
+  <br/>
+  - :satisfied: Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
+  <br/>
+  - 🌱 I’m currently learning the ins and outs of the tech industry
+  <br/>
+  - 👯 I’m looking to collaborate on big projects that teach me a lot 
+  <br/>
+  - 🤔 I’m looking for help with climing within the industry to reach my goals
+  <br/>
+  - 📫 How to reach me: NELSONC924@GMAIL.COM
+</h3>
 
-Here are some ideas to get you started:
+![Github stats](https://github-readme-stats.vercel.app/api?username=NChang007)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NChang007&repo=NChang007)
