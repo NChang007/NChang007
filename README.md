@@ -19,7 +19,34 @@
   <br/>
   - 📫 How to reach me: NELSONC924@GMAIL.COM
 </h3>
+<p>Technologies</p>
+<p align="left" dir="auto">
+  <!--  javascript  -->
+  <a href="https://www.javascript.com" rel="nofollow"> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" 
+      alt="bash" 
+      width="40" 
+      height="40" 
+      style="max-width: 100%;"> 
+  </a>
+   <!--  javascript  -->
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow"> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" 
+      alt="bash" 
+      width="40" 
+      height="40" 
+      style="max-width: 100%;"> 
+  </a>
+   <!--  javascript  -->
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow"> 
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" 
+      alt="bash" 
+      width="40" 
+      height="40" 
+      style="max-width: 100%;"> 
+  </a>
+</p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NChang007)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NChang007&repo=NChang007)
+<!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NChang007&repo=NChang007) -->
