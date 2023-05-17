@@ -130,6 +130,6 @@
 </p>
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=NChang007)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=NChang007) -->
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NChang007&repo=NChang007) -->
