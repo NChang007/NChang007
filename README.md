@@ -12,16 +12,16 @@
 
 <h2>About Me</h2>
 <h3>
-  - 🔭 I’m currently working on Full Stack Development projects
+  - 🔭 I’m currently messing around with Next13, Loving it so far 
   <br/>
   - :satisfied: Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
   <br/>
-  - 🌱 I’m currently learning the ins and outs of the tech industry
-  <br/>
+<!--   - 🌱 I’m currently learning the ins and outs of the tech industry
+  <br/> -->
   - 👯 I’m looking to collaborate on big projects that teach me a lot to be able to achieve my goals
   <br/>
-  - 🤔 I’m looking for help with climing within the industry to reach my goals
-  <br/>
+<!--   - 🤔 I’m looking for help with climing within the industry to reach my goals
+  <br/> -->
   - 📫 How to reach me: NELSONC924@GMAIL.COM
 </h3>
 <h2>Technologies</h2>
@@ -125,9 +125,9 @@
   
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1019864%2Fscreenshots%2F3079099%2Fcodeloop.gif&f=1&nofb=1&ipt=033138a7a81645119ea5a5abb9e003b790fce3d6af0fee674e394ec0ab9618c0&ipo=images" height="200"/>
-</p>
+</p> -->
 
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=NChang007) -->
