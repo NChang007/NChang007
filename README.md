@@ -40,7 +40,7 @@
       alt="bash" 
       width="40" 
       height="40" 
-      style="max-width: 100%;"> 
+      style="max-width: 100%; background-color: white;"> 
   </a>
    <!--  HTML  -->
   <a href="" rel="nofollow"> 
