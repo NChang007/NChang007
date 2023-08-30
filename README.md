@@ -34,6 +34,14 @@
       height="40" 
       style="max-width: 100%;"> 
   </a>
+   <!--  Next.js  -->
+  <a href="https://nextjs.org/" rel="nofollow"> 
+    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" 
+      alt="bash" 
+      width="40" 
+      height="40" 
+      style="max-width: 100%;"> 
+  </a>
    <!--  HTML  -->
   <a href="" rel="nofollow"> 
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" 
