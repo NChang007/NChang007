@@ -36,11 +36,11 @@
   </a>
    <!--  Next.js  -->
   <a href="https://nextjs.org/" rel="nofollow"> 
-    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg" 
+    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg" 
       alt="bash" 
       width="40" 
       height="40" 
-      style="max-width: 100%; background-color: white;"> 
+      style="max-width: 100%; background-color: white; color: white;"> 
   </a>
    <!--  HTML  -->
   <a href="" rel="nofollow"> 
