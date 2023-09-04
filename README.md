@@ -36,11 +36,11 @@
   </a>
    <!--  Next.js  -->
   <a href="https://nextjs.org/" rel="nofollow"> 
-    <img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg" 
+    <img src="https://buttercms.com/static/images/tech_banners/Nextjs.b8a717322c08.png" 
       alt="bash" 
-      width="40" 
+      width="80" 
       height="40" 
-      style="max-width: 100%; background-color: white; color: white;"> 
+      style="max-width: 100%;"> 
   </a>
    <!--  HTML  -->
   <a href="" rel="nofollow"> 
@@ -102,7 +102,7 @@
   <a href="https://nodejs.org/en/about/" rel="nofollow"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" 
       alt="bash" 
-      width="80" 
+      width="100" 
       height="40" 
       style="max-width: 100%;"> 
   </a>
