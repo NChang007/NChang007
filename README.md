@@ -14,7 +14,7 @@
 <h3>
   - 🔭 I’m currently messing around with Next13, Loving it so far 
   <br/>
-  - :satisfied: Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
+  - :satisfied: I am also teaching  JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask and more at 4Geeks.
   <br/>
 <!--   - 🌱 I’m currently learning the ins and outs of the tech industry
   <br/> -->
