@@ -2,15 +2,15 @@
   NELSON CHANG
 </h1>
 
-<h3>
- I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me working on my car, spending time with my family, and gaming with my friends! 🎮
-</h3>
+<!-- <h3> -->
+<!--  I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me working on my car, spending time with my family, and gaming with my friends! 🎮 -->
+<!-- </h3> -->
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F141072%2Fscreenshots%2F2706461%2Fgaming.gif&f=1&nofb=1&ipt=a69af4d926cfe097f053f44bff0f03951848f29d44e731582cf17c160c29a217&ipo=images" height="200"/>
+<!--   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F141072%2Fscreenshots%2F2706461%2Fgaming.gif&f=1&nofb=1&ipt=a69af4d926cfe097f053f44bff0f03951848f29d44e731582cf17c160c29a217&ipo=images" height="200"/> -->
 </p>
 
-<h2>About Me</h2>
+<!-- <h2>About Me</h2> -->
 <h3>
   - 🔭 I’m currently messing around with Next13, Loving it so far 
   <br/>
